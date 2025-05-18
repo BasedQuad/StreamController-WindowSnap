@@ -1,0 +1,10 @@
+{
+    "id": "com.custom.windowsnap",
+    "name": "Window Snap",
+    "description": "Snap active window to screen halves using StreamController",
+    "version": "1.0.0",
+    "app-version": "1.5.0",
+    "author": "BasedQuad",
+    "github": "https://github.com/BasedQuad/StreamController-WindowSnap",
+    "thumbnail": "assets/thumbnail.png"
+}
